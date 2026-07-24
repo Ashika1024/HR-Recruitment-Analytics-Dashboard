@@ -85,7 +85,7 @@ HR-Recruitment-Analytics-Dashboard
 
 ### Recruitment Performance
 
-![Recruitment Performance](Screenshotsrecruitment performance.png)
+![Recruitment Performance](screenshots/Screenshotsrecruitment%20performance.png)
 
 ---
 
