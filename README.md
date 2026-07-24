@@ -73,25 +73,25 @@ HR-Recruitment-Analytics-Dashboard
 
 ### Dashboard Overview
 
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/Screenshotsdashboard-overview.png)
 
 ---
 
 ### KPI Summary
 
-![KPI Summary](Screenshots/kpi-summary.png)
+![KPI Summary](screenshots/Screenshotskpi-summary.png)
 
 ---
 
 ### Recruitment Performance
 
-![Recruitment Performance](Screenshots/recruitment-performance.png)
+![Recruitment Performance](screenshots/Screenshotsrecruitment performance.png)
 
 ---
 
 ### Recruitment Insights
 
-![Recruitment Insights](Screenshots/recruitment-insights.png)
+![Recruitment Insights](screenshots/Screenshotsrecruitment-insights.png)
 
 ---
 
